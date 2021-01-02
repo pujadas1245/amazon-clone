@@ -3,7 +3,7 @@ Fully Functional E-Commerce Website with Stripe Payment Gateway
 
 ## Languages Used:
 
-I have built an amazone clone using React JS, Firebase, Stripe, Axios, Material UI, React Router DOM, React Context API
+I have built an amazon clone using React JS, Firebase, Stripe, Axios, Material UI, React Router DOM, React Context API
 
 ### Pages
 
